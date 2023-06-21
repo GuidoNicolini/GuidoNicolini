@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Texto alternativo]([ruta/de/la/imagen.jpg](https://www.vectorlogo.zone/logos/springio/springio-icon.svg))
+![Texto alternativo](https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fspringio%2Fspringio-icon.svg&width=200&height=200)
 
 
 <!--
