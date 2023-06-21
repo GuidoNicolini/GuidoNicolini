@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Texto alternativo]([ruta/de/la/imagen.jpg](https://www.vectorlogo.zone/logos/springio/springio-icon.svg))
+
+
 <!--
 **GuidoNicolini/GuidoNicolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
